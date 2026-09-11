@@ -141,13 +141,9 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 
 ## 📫 Entre em contato
 
-<p>
-  <a href="https://[//[www.linkedin.com/public-profile/settings/?](https://www.linkedin.com/in/samuel-tude-321684352?utm_source=share_via&utm_content=profile&utm_medium=member_android)lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BOFA11b6zT%2FevFygfUdbhbQ%3D%3D)>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
----
-
+<a href="https://www.linkedin.com/in/samuel-tude-321684352/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <p align="center">
 
 ### 🚀 Aprender • Praticar • Evoluir
