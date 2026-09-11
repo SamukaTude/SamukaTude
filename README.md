@@ -151,15 +151,10 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 ## 📫 Entre em contato
 
 <p>
-  <a href="SEU_LINKEDIN">
-https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BOFA11b6zT%2FevFygfUdbhbQ%3D%3D    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:[samueltudesoares@gmail.com](mailto:samueltudesoares@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ samuel-tude-321684352">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">
