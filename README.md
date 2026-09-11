@@ -117,15 +117,6 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamukaTude&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaTude&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Minha atividade
 
 <p align="center">
@@ -151,7 +142,7 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 ## 📫 Entre em contato
 
 <p>
-  <a href="https://www.linkedin.com/in/ samuel-tude-321684352">
+  <a href="https://[//www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BOFA11b6zT%2FevFygfUdbhbQ%3D%3D)>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
