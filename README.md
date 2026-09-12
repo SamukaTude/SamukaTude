@@ -27,7 +27,8 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,visualg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://img.shields.io/badge/Visualg-1E1E1E?style=for-the-badge" alt="Visualg" />
 </p>
 
 ### 🎨 UI/UX & Design
@@ -39,7 +40,7 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 ### 🔧 Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
 ---
