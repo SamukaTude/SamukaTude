@@ -126,20 +126,6 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 
 ---
 
-## 🎯 Próximos objetivos
-
-* ⚡ Aprofundar meus conhecimentos em **JavaScript**
-* 🐍 Evoluir em **Python**
-* 🧠 Fortalecer minha **lógica de programação**
-* 🔧 Aprimorar **Git e GitHub**
-* 🎨 Desenvolver novos projetos de **UI/UX**
-* 💻 Criar projetos próprios
-* 🌐 Construir meu **portfólio profissional**
-* 🚀 Desenvolver projetos cada vez mais completos
-* 🎯 Conquistar minha **primeira oportunidade na área de tecnologia**
-
----
-
 ## 📫 Entre em contato
 
 <a href="https://www.linkedin.com/in/samuel-tude-321684352/">
