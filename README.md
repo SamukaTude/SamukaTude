@@ -2,7 +2,7 @@
 
 💻 **Estudante de Programação** • 🎨 **UI/UX** • 🚀 **Em constante evolução**
 
-Sou estudante do **3º ano do Ensino Médio** e do **Instituto Proa**, desenvolvendo meus conhecimentos em **programação, desenvolvimento web e design de interfaces**.
+Sou estudante do **Instituto Proa**, desenvolvendo meus conhecimentos em **programação, desenvolvimento web e design de interfaces**.
 
 Busco transformar o que aprendo em **projetos práticos**, construir meu portfólio e evoluir continuamente como profissional da área de tecnologia.
 
@@ -10,8 +10,6 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante do **3º ano do Ensino Médio**
-* 📚 Estudante do **Instituto Proa**
 * 💻 Foco em **Programação e Desenvolvimento Web**
 * 🧠 Conhecimentos em **Lógica de Programação**
 * 🌐 Estudos em **HTML, CSS, JavaScript e Python**
@@ -47,7 +45,7 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 
 ## 📂 Projetos
 
-Aqui reúno projetos desenvolvidos durante meus estudos, colocando em prática os conhecimentos adquiridos.
+Aqui reúno projetos desenvolvidos durante meus estudos.
 
 ### 🌐 Meu Primeiro Site
 
@@ -121,7 +119,7 @@ Atualmente possuo **9 projetos desenvolvidos no Figma**, utilizando diferentes c
 ## 🔥 Minha atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamukaTude&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SamukaTude&theme=dracula" />
 </p>
 
 ---
