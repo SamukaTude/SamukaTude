@@ -15,7 +15,7 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 * 💻 Foco em **Programação e Desenvolvimento Web**
 * 🧠 Conhecimentos em **Lógica de Programação**
 * 🌐 Estudos em **HTML, CSS, JavaScript e Python**
-* 🎨 **9 projetos desenvolvidos no Figma**
+* 🎨 **projetos desenvolvidos no Figma**
 * 🖥️ Interesse em **UI/UX e desenvolvimento de interfaces**
 * 🌱 Atualmente aprofundando meus conhecimentos em **JavaScript e Python**
 * 🎯 Buscando minha **primeira oportunidade profissional em Tecnologia**
