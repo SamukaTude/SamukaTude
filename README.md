@@ -27,7 +27,7 @@ Busco transformar o que aprendo em **projetos práticos**, construir meu portfó
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,visualg" />
 </p>
 
 ### 🎨 UI/UX & Design
